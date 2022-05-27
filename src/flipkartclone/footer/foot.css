@@ -1,0 +1,16 @@
+footer {
+    position: sticky;
+    bottom: 0px;
+    background-color: black;
+    height: 10vh;
+    width: 100%;
+    text-align: center;
+    /* justify-content: center; */
+}
+
+p {
+    color: aliceblue;
+    padding: 1.5vw;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}

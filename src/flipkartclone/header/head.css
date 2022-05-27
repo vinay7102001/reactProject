@@ -1,0 +1,55 @@
+.head_div {
+    position: sticky;
+    top: 0px;
+    background-color: #2874f0;
+    height: 10vh;
+    width: 100%;
+    display: flex;
+}
+
+.div_img {
+    margin-left: 29vw;
+    display: inline-block;
+    height: 1.7vw;
+    margin-top: 3vh;
+}
+
+.search {
+    background-color: #fff;
+    /* display: flex; */
+    height: 4.5vh;
+    width: 26vw;
+    margin-left: 0.5vw;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.search>input {
+    height: 3.5vh;
+    width: 23vw;
+    border: none;
+    outline: none;
+}
+
+.search>SearchIcon {
+    color: blue;
+}
+
+.div_ul {
+    /* margin-left: 100px; */
+    float: right;
+    margin-top: 1vh;
+    display: inline-block;
+    list-style: none;
+    font-weight: bold;
+    margin-left: 9vw;
+}
+
+ul li {
+    /* margin-left: 3vw; */
+    padding: 1vw;
+    display: inline-block;
+    color: white;
+    font-size: large;
+    font-family: Courier, monospace;
+}
